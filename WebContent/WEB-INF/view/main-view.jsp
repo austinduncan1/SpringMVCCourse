@@ -21,6 +21,10 @@
 		
 		<br><br>
 		
+		<a href="student/showForm">Student Form</a>
+		
+		<br><br>
+		
 		<input type="button" onclick="showAlert()" value="Click for JS example"/>
 		
 		<br><br>
