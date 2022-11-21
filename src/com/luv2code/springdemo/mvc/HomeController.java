@@ -9,7 +9,6 @@ public class HomeController {
 	@RequestMapping("/")
 	public String showHome()
 	{
-		System.out.println("Request made to Controller bean for route!");
 		return "main-view";
 	}
 	
