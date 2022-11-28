@@ -25,6 +25,10 @@
 		
 		<br><br>
 		
+		<a href="customer/showForm">Customer Form</a>
+		
+		<br><br>
+		
 		<input type="button" onclick="showAlert()" value="Click for JS example"/>
 		
 		<br><br>
